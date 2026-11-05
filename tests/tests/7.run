@@ -1,0 +1,1 @@
+../bin/parse_lfs cat /dir/./c/d/.././../../dir/b/../b/././foo.txt ../sample_files/a.img

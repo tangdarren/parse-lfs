@@ -1,0 +1,1 @@
+../bin/parse_lfs cat /bar.txt ../sample_files/a.img

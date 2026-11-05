@@ -1,0 +1,17 @@
+/
+         256 1977-04-12 17:25:12 UTC -rw-------    bar.txt 
+           0 1979-08-21 13:12:52 UTC -rw-------    foo.txt 
+           0 1971-02-10 03:40:11 UTC -rwxrwxrwx    scary.bin
+          30 1986-07-12 23:36:08 UTC drwxr-xr-x    dir     
+           0 1979-05-04 21:49:27 UTC -rwxr-xr-x        a       
+          32 1990-09-13 08:30:05 UTC drwxr-xr-x        b       
+           0 2003-12-14 20:04:03 UTC -rw-r-----            bar.txt 
+      779624 1977-08-31 16:16:38 UTC -rwxr-xr-x            egg     
+        4096 1977-05-28 10:58:43 UTC -rw-r--r--            foo.txt 
+          26 1980-08-30 06:43:02 UTC drwxr-xr-x        c       
+           0 1984-11-07 19:18:55 UTC -rwxr-xr-x            a.txt   
+           0 1993-01-28 16:19:38 UTC -rwxr-xr-x            b.csv   
+          15 1970-11-18 10:28:25 UTC drwxr-xr-x            d       
+       65536 1990-02-22 21:44:18 UTC -rw-------                sample.txt
+          13 1997-04-14 12:38:50 UTC drwxr-xr-x        new_dir 
+         512 1978-10-31 23:01:02 UTC -rw-------            data.txt
